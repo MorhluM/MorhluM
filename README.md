@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
+<br>I am a third-year Computer Science student with a passion for software development, artificial intelligence, and cloud infrastructure. Skilled in Python, and JavaScript. Enthusiastic about learning backend technologies and database management to build scalable and efficient systems. I enjoy tackling real-world problems through innovative and practical solutions.
 <br>🌱 I’m currently learning
 
 
